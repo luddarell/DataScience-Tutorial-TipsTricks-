@@ -101,3 +101,13 @@ As data scientist you should write code better, here’s the steps
  * ### [26 Page Python](https://lnkd.in/f6NBqSt)
 
  
+ # DATA SCIENCE INTERVIEW & QUESTION 
+
+
+## Here’s selected *Interview* Materials
+* ### [Data Science Interview - Part 1 ](https://lnkd.in/f2uwPrk)
+* ### [Data Science Interview - Part 2 ](https://lnkd.in/fQCsxqq)
+* ### [40 Python Interview and Answer  ](https://lnkd.in/fgCtt9M)
+* ### *also* [Do not miss to check out this Jonathan Dahan's blog](https://lnkd.in/f6vUB6B)
+
+
