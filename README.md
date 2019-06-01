@@ -85,13 +85,13 @@
 As data scientist you should write code better, here’s the steps
 ```
 
- ## 1.[Following standard style](https://lnkd.in/gKZUjVa)
- ## 2.[Use a linter to enforce style standards](https://lnkd.in/d_prybR)
- ## 3a.[Write modular, generic, object-oriented code-Part 1](https://lnkd.in/gsynW6Q)
- ## 3b.[Write modular, generic, object-oriented code-Part 2](https://lnkd.in/dx53u53)
- ## 4.[Write unit tests to test your functions and methods](https://lnkd.in/dsy-bPu)
- ## 5.[Organizing  your code base](https://lnkd.in/dviGffH)
- ## 6.[Separate exploration and production development, and develop production code using test-driven development (TDD)](https://lnkd.in/dMn-s32)
+ ## 1. [Following standard style](https://lnkd.in/gKZUjVa)
+ ## 2. [Use a linter to enforce style standards](https://lnkd.in/d_prybR)
+ ## 3a. [Write modular, generic, object-oriented code-Part 1](https://lnkd.in/gsynW6Q)
+ ## 3b. [Write modular, generic, object-oriented code-Part 2](https://lnkd.in/dx53u53)
+ ## 4. [Write unit tests to test your functions and methods](https://lnkd.in/dsy-bPu)
+ ## 5. [Organizing  your code base](https://lnkd.in/dviGffH)
+ ## 6. [Separate exploration and production development, and develop production code using test-driven development (TDD)](https://lnkd.in/dMn-s32)
  
 
  ## *BONUS :*
