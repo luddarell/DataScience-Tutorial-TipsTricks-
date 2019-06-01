@@ -1,4 +1,4 @@
-# DATA SCIENCE LEARNING PATH (For Complete Beginer)
+# DATA SCIENCE LEARNING PATH (For Complete Beginner)
 
 
 ## How to learn **Data Science** for complete beginner from *concept* to *code*
