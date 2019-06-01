@@ -64,7 +64,7 @@
 ---
 * ### Step 9 <br>
 
-    ## [Practice your machine learning skills Kaggle Machine Learning Tutorial](https://lnkd.in/gT5nNwS)
+    ## [Practice your machine learning skills Kaggle Machine Learning Tutorial](https://www.kaggle.com/dansbecker/learn-machine-learning)
 ---
 
 ---
